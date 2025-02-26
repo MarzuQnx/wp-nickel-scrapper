@@ -1,0 +1,1854 @@
+		
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>
+    Harga Acuan - Ditjen Minerba  </title>
+
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.minerba.esdm.go.id/favicon.ico">
+
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <link href="https://www.minerba.esdm.go.id/resources/themes/limberly/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+  <link rel="stylesheet" href="https://www.minerba.esdm.go.id/resources/themes/limberly/styles/bootstrap/3.3.7/bootstrap.min.css">
+
+  <link rel="stylesheet" href="https://www.minerba.esdm.go.id/resources/themes/limberly/font-awesome/4.2.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" type="text/css" href="https://www.minerba.esdm.go.id/resources/plugins/jssocials/jssocials.css">
+
+  <link rel="stylesheet" type="text/css" href="https://www.minerba.esdm.go.id/resources/plugins/jssocials/jssocials-theme-minima.css">
+
+  <link rel="stylesheet" href="https://www.minerba.esdm.go.id/resources/plugins/vegas/vegas.min.css">
+
+
+
+  <link type="text/css" rel="stylesheet" href="https://www.minerba.esdm.go.id/resources/plugins/datatables/dataTables.bootstrap.css" /><link type="text/css" rel="stylesheet" href="https://www.minerba.esdm.go.id/resources/plugins/datatables/extensions/Responsive/css/responsive.dataTables.min.css" />
+  <script type="text/javascript">
+    var base_url = 'https://www.minerba.esdm.go.id/';
+  </script>
+
+  
+  <style>
+    .minerba-expo {
+      position: absolute;
+      width: 100%;
+    }
+
+    .expo-container {
+      width: 250px;
+      display: inline-block;
+      float: right;
+      border: 2px solid #fee50f;
+      background-color: #366308;
+      color: #fee50f;
+      border-radius: 0 0 5px 5px;
+      background-image: url('https://www.minerba.esdm.go.id/assets/img/bg-minerba-expo.jpg');
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      line-height: 1.2em;
+      padding: 3px;
+    }
+
+    .title {
+      margin-bottom: 0;
+      width: 100%;
+    }
+
+    .count label {
+      width: 100%;
+      margin-bottom: 0;
+      color: #fff;
+    }
+
+    .count span {
+      font-size: 10px
+    }
+
+    .count-container {
+      margin-top: 3px;
+      margin-bottom: 3px;
+    }
+
+    .count-container .col-xs-3 {
+      padding: 0 3px;
+    }
+
+    .count-container .count {
+      border-radius: 5px;
+      border: 1px solid white;
+      text-align: center;
+      display: grid;
+      padding: 3px 0;
+    }
+
+    @media only screen and (max-width: 812px) {
+      .minerba-expo {
+        position: relative;
+      }
+
+      .expo-container {
+        width: 100%;
+      }
+
+      .title {
+        width: auto;
+      }
+    }
+
+    /* added on 7 desember 2020 */
+
+    .breadcrumb {
+      border-top: none;
+      /*background-color: #e2e2e2;
+	border: 1px solid #337ab7;
+	border-radius: 4px;*/
+    }
+
+    .breadcrumb li a {
+      color: #337ab7 !important;
+    }
+
+    .social-icon {
+      background-color: whitesmoke !important;
+      color: black !important;
+      width: 30px !important;
+      height: 30px !important;
+      font-size: 14px !important;
+      padding-top: 1px !important;
+    }
+
+    .social-media-container:hover {
+      opacity: .8 !important;
+    }
+
+    .btn-lime:hover {
+      background-color: #F9E10B !important;
+    }
+
+    .difixin {
+      /*position: fixed;*/
+      z-index: 9999;
+      top: 0;
+      background-color: white;
+      width: 100%;
+    }
+
+    .animate {
+      -webkit-animation-duration: 0.5s;
+      animation-duration: 0.5s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+      -webkit-animation-delay: 0.5s;
+      -moz-animation-delay: 0.5s;
+      animation-delay: 0.5s;
+    }
+
+    /*=== FADE IN DOWN ===*/
+    @-webkit-keyframes fadeInDown {
+      from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -100%, 0);
+        transform: translate3d(0, -100%, 0);
+      }
+
+      to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+      }
+    }
+
+    @keyframes fadeInDown {
+      from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -100%, 0);
+        transform: translate3d(0, -100%, 0);
+      }
+
+      to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+      }
+    }
+
+    .fadeInDown {
+      -webkit-animation-name: fadeInDown;
+      animation-name: fadeInDown;
+    }
+
+    .text-href {
+      color: #2b7bb9;
+    }
+  </style>
+
+</head>
+
+<body class="background-slide" id="top">
+  <div class="bgded overlay">
+    <div class="wrapper row1">
+      <!--<div id="">
+        <div class="row0" width="100%">
+          <div id="topbar" class="hoc clear row0">
+            <div class="container hoc">
+              
+                <ul class="nospace">
+                  <li>
+                    <a href="https://www.minerba.esdm.go.id/">
+                      <i class="fa fa-lg fa-home"></i>
+                    </a>
+                  </li>
+                  <li  style="color:#FFFFFF"><a href="https://www.minerba.esdm.go.id/home/ganti_bahasa/_en">ENGLISH</a></li>                  
+                </ul>
+             
+            </div>
+          </div>
+        </div>
+        
+                <header id="header" class="container hoc clear" style="text-align: center;">
+            <a href="">
+              <img src="">
+            </a>
+        </header>
+        <div class="wrapper row1" style="background-color: black; text-align: center;border-bottom: 3px solid #fff000; padding-bottom: 2px">
+          <div class="container hoc"> MENU
+            
+            </nav>
+          </div>
+        </div>
+      </div> -->
+
+      <div class="difixin">
+        <div class="row0" width="100%">
+          <div id="topbar" class="hoc clear row0">
+            <div class="container hoc">
+              <!-- <div class="container"> -->
+              <ul class="nospace">
+                <li>
+                  <a href="https://www.minerba.esdm.go.id/">
+                    <i style="color:#000000" class="fa fa-lg fa-home"></i>
+                  </a>
+                </li>
+                <li  style="color:#000000"><a href="https://www.minerba.esdm.go.id/home/ganti_bahasa/_en">ENGLISH</a></li>                <li style="color:#000000" id="clockbox"></li>
+              </ul>
+              <!-- </div> -->
+            </div>
+          </div>
+        </div>
+
+        <header id="header" class="container hoc clear" style="text-align: center;">
+            <a href="https://www.minerba.esdm.go.id/">
+              <img src="https://www.minerba.esdm.go.id/resources/frontend/images/banner_id_20250120134911.png">
+            </a>
+          </header>
+        <div class="wrapper row1" style="background-color: black; text-align: center;border-bottom: 3px solid #fff000;">
+          <div class="container hoc">
+            <nav id="mainav" class="navbar-expand-md" style="font-size: 13px; width: 100%;">
+              <ul class="clear" style="color: #fff000"><li >
+                    <a href="https://www.minerba.esdm.go.id/">BERANDA</a>
+                </li><li><a href="#"><i class="fa fa-arrow"></i> PROFIL <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/35-Struktur Organisasi">Struktur Organisasi</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/311-Profil Pimpinan">Profil Pimpinan</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/15-Visi Misi">Visi Misi</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/116-Tugas dan Fungsi">Tugas dan Fungsi</a></li></ul></li><li><a href="#"><i class="fa fa-arrow"></i> INFORMASI PUBLIK <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/134-IKU DJMB 2020-2024">IKU DJMB 2020-2024</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/143-Blue Print PPM">Blue Print PPM</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/261-Data Standarisasi">Data Standarisasi</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/282-PPID">PPID</a></li><li><a href="#"><i class="fa fa-arrow"></i> CAPAIAN KINERJA <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/38-Tahun">Tahun</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/92-Minerba dalam Angka">Minerba dalam Angka</a></li></ul></li><li><a href="#"><i class="fa fa-arrow"></i> RENSTRA <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/3-Renstra KESDM Tahun 2015 - 2019">Renstra KESDM Tahun 2015 - 2019</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/4-Renstra DJMB Tahun 2015 - 2019">Renstra DJMB Tahun 2015 - 2019</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/164-Renstra KESDM Tahun 2020 - 2024">Renstra KESDM Tahun 2020 - 2024</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/172-Renstra DJMB Tahun 2020-2024">Renstra DJMB Tahun 2020-2024</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/173-Kebijakan Minerba 2020">Kebijakan Minerba 2020</a></li></ul></li><li><a href="#"><i class="fa fa-arrow"></i> GALERI <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a href="https://www.minerba.esdm.go.id/galeri/galeri_foto" target="_blank">Galeri Foto</a></li><li><a href="https://www.minerba.esdm.go.id/galeri/galeri_ebook" target="_blank">Galeri Ebook</a></li><li><a href="https://www.minerba.esdm.go.id/galeri/galeri_video" target="_blank">Galeri Video</a></li></ul></li><li><a href="https://www.minerba.esdm.go.id/#"><i class="fa fa-arrow"></i> FAQ</span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/247-FAQ Hotline Minerba">FAQ Hotline Minerba</a></li></ul></li><li><a href="#"><i class="fa fa-arrow"></i> PERJANJIAN KINERJA <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/47-PK 2013">PK 2013</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/21-PK 2014">PK 2014</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/20-PK 2015">PK 2015</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/19-PK 2016">PK 2016</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/18-PK 2017">PK 2017</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/93-PK 2018">PK 2018</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/135-PK 2019">PK 2019</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/136-PK 2020">PK 2020</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/213-PK 2021">PK 2021</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/232-PK 2022">PK 2022</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/265-PK 2023">PK 2023</a></li></ul></li><li><a href="#"><i class="fa fa-arrow"></i> LAKIN <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/17-Lakin 2014">Lakin 2014</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/16-Lakin 2015">Lakin 2015</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/15-Lakin 2016">Lakin 2016</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/14-Lakin 2017">Lakin 2017</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/95-Lakin 2018">Lakin 2018</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/129-Lakin 2019">Lakin 2019</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/198-Lakin 2020">Lakin 2020</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/240-Lakin 2021">Lakin 2021</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/267-Lakin 2022">Lakin 2022</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/298-Lakin 2023">Lakin 2023</a></li></ul></li><li><a href="https://www.minerba.esdm.go.id/#"><i class="fa fa-arrow"></i> RENCANA INDUK TIK</span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/110-Kajian Rencana Induk TIK KESDM 2017-2021">Kajian Rencana Induk TIK KESDM 2017-2021</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/111-Kepmen ESDM No 1927 Tahun 2018">Kepmen ESDM No 1927 Tahun 2018</a></li></ul></li></ul></li><li><a href="#"><i class="fa fa-arrow"></i> PERIZINAN <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/238-Standar Pelayanan">Standar Pelayanan</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/8-Alur Pelayanan RPIM">Alur Pelayanan RPIM</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/62-Pengambilan Produk">Pengambilan Produk</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/310-Status IUP Nasional">Status IUP Nasional</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/4-Pengumuman CNC">Pengumuman CNC</a></li><li><a href="https://www.minerba.esdm.go.id/perizinan/persyaratan" target="_blank">Persyaratan</a></li><li><a href="https://www.minerba.esdm.go.id/perizinan/format_surat" target="_blank">Format Surat</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/169-KBLI dan Jenis izin">KBLI dan Jenis izin</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/101-Indeks Kepuasan Layanan">Indeks Kepuasan Layanan</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/109-Panduan Perizinan Minerba">Panduan Perizinan Minerba</a></li></ul></li><li><a href="#"><i class="fa fa-arrow"></i> APLIKASI <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://epnbpminerba.esdm.go.id" target="_blank">EPNBP</a></li><li><a style="color:#FFFFFF" href="https://erkab.esdm.go.id/" target="_blank">E-RKAB Minerba</a></li><li><a href="https://momi.minerba.esdm.go.id/gisportal/home/" target="_blank">Minerba One Map</a></li><li><a style="color:#FFFFFF" href="https://moms.esdm.go.id/" target="_blank">MOMS</a></li><li><a style="color:#FFFFFF" href="https://modi.minerba.esdm.go.id" target="_blank">MODI</a></li><li><a style="color:#FFFFFF" href="https://mvp.esdm.go.id/" target="_blank">MVP</a></li><li><a style="color:#FFFFFF" href="https://esdm.go.id/inline" target="_blank">Perizinan Online</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/minepedia/" target="_blank">Minepedia</a></li><li><a style="color:#FFFFFF" href="https://georima.esdm.go.id/" target="_blank">GeoRIMA "Potensi & Cadangan Minerba"</a></li><li><a style="color:#FFFFFF" href="https://edw-minerba.esdm.go.id/Account/Login?ReturnUrl=/" target="_blank">MDS</a></li><li><a style="color:#FFFFFF" href="https://minerba.esdm.go.id/lelang/" target="_blank">Simpel Lelang</a></li></ul></li><li><a href="#"><i class="fa fa-arrow"></i> REFORMASI BIROKRASI <span class="fa fa-arrow"></span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/49-Zona Integritas">Zona Integritas</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/50-SK Tim Reformasi Birokrasi">SK Tim Reformasi Birokrasi</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/12-Kode Etik">Kode Etik</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/108-Roadmap RB">Roadmap RB</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/84-Peta Proses Bisnis">Peta Proses Bisnis</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/page/93-Laporan Pelaksanaan RB">Laporan Pelaksanaan RB</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/210-Maklumat Pelayanan">Maklumat Pelayanan</a></li><li><a href="https://www.minerba.esdm.go.id/#"><i class="fa fa-arrow"></i> AGEN PERUBAHAN</span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/41-SK Agen Perubahan 2019">SK Agen Perubahan 2019</a></li><li><a style="color:#FFFFFF" href="https://www.minerba.esdm.go.id/pdf/133-SK Agen Perubahan 2020">SK Agen Perubahan 2020</a></li></ul></li></ul></li><li><a href="https://www.minerba.esdm.go.id/website_terkait_minerba"><i class="fa fa-arrow"></i> TAUTAN TERKAIT</span></a><ul style="text-align:left" class="sub"><li><a style="color:#FFFFFF" href="https://www.esdm.go.id/" target="_blank">WEB ESDM</a></li><li><a style="color:#FFFFFF" href="https://www.tekmira.esdm.go.id" target="_blank">BLU TEKMIRA</a></li></ul></li><li><a href="https://www.minerba.esdm.go.id/hubungi_kami"><i class="fa fa-arrow"></i> HUBUNGI KAMI</span></a><ul style="text-align:left" class="sub"></ul></li></ul>            </nav>
+          </div>
+        </div>
+      </div>
+      <!-- ======================================= call content here  ======================================= -->
+      <!-- -->
+      <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/owl.theme.css">
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/owl.transitions.css">
+    <!-- animate CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/animate.css">
+    <!-- normalize CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/normalize.css">
+    <!-- meanmenu icon CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/meanmenu.min.css">
+    <!-- main CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/main.css">
+    <!-- educate icon CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/educate-custon-icon.css">
+    <!-- morrisjs CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/morrisjs/morris.css">
+    <!-- mCustomScrollbar CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/scrollbar/jquery.mCustomScrollbar.min.css">
+    <!-- metisMenu CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/metisMenu/metisMenu.min.css">
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/metisMenu/metisMenu-vertical.css">
+    <!-- calendar CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/calendar/fullcalendar.min.css">
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/calendar/fullcalendar.print.min.css">
+    <!-- Chart CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/c3/c3.min.css">
+    <!-- style CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/style.css">
+    <!-- responsive CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/responsive.css">
+    <!-- modernizr JS
+		============================================ -->
+    <script src="https://www.minerba.esdm.go.id/assets/js/vendor/modernizr-2.8.3.min.js"></script>
+
+
+
+<style type="text/css">
+    .active-menu{
+        background-color: #eee;
+    }
+</style>
+
+
+
+ <script src="https://www.minerba.esdm.go.id/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    
+     <!-- c3 JS
+        ============================================ -->
+    <!-- <script src="https://www.minerba.esdm.go.id/assets/js/c3-charts/d3-5.8.2.min.js"></script> -->
+    <!-- <script src="https://www.minerba.esdm.go.id/assets/js/c3-charts/c3-5.8.2.min.js"></script> -->
+	<script src="https://c3js.org/js/d3-5.8.2.min-c5268e33.js" type="text/javascript"></script>
+<script src="https://c3js.org/js/c3.min-d2a1f852.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://www.minerba.esdm.go.id/assets/css/datepicker.min.css">
+<script src="https://www.minerba.esdm.go.id/assets/js/bootstrap-datepicker.min.js"></script>
+
+<div class="wrapper row3">
+  	<section class="hoc container clear"> 
+		<div class="left_content">
+			<ol class="breadcrumb">
+				<li><a href="https://www.minerba.esdm.go.id/">Home</a></li>
+				<li class="active">Harga Acuan</li>
+			</ol>
+		    <div class="single_post_content">
+		    	<ul class="nav nav-pills pull-right">
+					<li class="active"><a href="#">Harga Acuan</a></li>
+					<li><a href="https://www.minerba.esdm.go.id/harga_acuan/regulasi">Regulasi</a></li>
+				</ul> 
+		    	
+		    	<div class="form-group">
+                        <form action="https://www.minerba.esdm.go.id/harga_acuan" method="post" onSubmit="return validasi()">
+                            <input type="hidden" name="csrf_test_name" value="e92314b4d387f87d452351de8ea8fbdd">
+
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">            
+                            <label class="login2  ">Periode:</label> <input type="text" name="bulan_awal" class="form-control form-control-1 input-sm from" placeholder="Bulan" value="03/2024" readonly>            
+                            </div>
+                            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-2">
+                            <label class="login2  " style="color:#fff;">. </label><br>
+                                <label class="login2 ">Sampai</label>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">        
+                            <label class="login2  " style="color:#fff;">. </label><br>
+                                <input type="text" name="bulan_akhir" class="form-control form-control-2 input-sm to" placeholder="Bulan" value="02/2025" readonly>         
+                            </div>
+                            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-10">
+                            <div class="col-lg-1 col-md-1 col-sm-2 col-xs-10">
+                                <label class="login2  " style="color:#fff;">. </label><br>
+                            </div>
+                            
+                            <br><input type="submit" class="btn btn-sm btn-success pull-right" value="Submit">
+                            </div>
+                            </div>
+                        </div>
+
+                        </form>
+                                        </div>
+                <div class="container-fluid">
+				
+	                <div class="row">
+	                  
+	                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                        <div class="sparkline-list">
+	                            <div class="smart-sparkline-hd">
+	                                <div class="smart-main-spark-hd">
+	                                    <h1>Grafik Harga Batubara Acuan</h1>
+	                                </div>
+	                            </div>
+	                            <div class="smart-sparkline-list">
+	                                <div id="slineChart1"></div>
+	                            </div>
+	                        </div>
+	                    </div>
+
+	                    
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Nikel)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart2"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Kobalt)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart3"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Timbal)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart4"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Seng)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart5"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Aluminium)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart6"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Tembaga)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart7"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Emas sebagai mineral ikutan)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart8"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Perak sebagai mineral ikutan)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart9"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Mangan)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart17"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Bijih Besi Laterit/Hematit/Magnetit)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart18"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Bijih Krom)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart19"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Konsentrat Ilmenit)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart20"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+	                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+	                                <div class="sparkline-list">
+	                                    <div class="smart-sparkline-hd">
+	                                        <div class="smart-main-spark-hd">
+	                                            <h1>Grafik Harga Mineral Acuan <br><small>(Konsentrat Titanium)</small></h1>
+	                                            
+	                                        </div>
+	                                    </div>
+	                                    <div class="smart-sparkline-list">
+	                                        <div id="slineChart21"></div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                        
+
+	                    <div class="clearfix" style="margin-bottom: 10px;"></div>
+	         
+	                </div>
+					
+	                    <div class="clearfix" style="margin-bottom: 10px;"></div>
+	                <div class="row">
+	                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	                        <div class="sparkline-list">
+	                            <div class="smart-sparkline-hd">
+	                                <div class="smart-main-spark-hd">
+	                                    <h1>Tabel Harga Mineral dan Batubara Acuan</h1>
+	                                </div>
+	                            </div>
+	                            <div class="smart-sparkline-list table-responsive">                     
+	                                <table class="table border-table">
+	                                    <thead>
+	                                         <tr><th>Komoditas</th><th>Maret 2024</th><th>April 2024</th><th>Mei 2024</th><th>Juni 2024</th><th>Juli 2024</th><th>Agustus 2024</th><th>September 2024</th><th>Oktober 2024</th><th>November 2024</th><th>Desember 2024</th><th>Januari 2025</th><th>Februari 2025</th></tr>
+	                                    </thead>
+	                                    <tbody>
+	                                         <tr><td>Batubara <small>(USD/ton)</small></td><td>109.77</td><td>121.13</td><td>114.06</td><td>123</td><td>130.44</td><td>115.29</td><td>125.15</td><td>131.17</td><td>114.43</td><td>122.51</td><td>124.01</td><td>124.24</td></tr> <tr><td>Batubara (hba 1) <small>(USD/ton)</small></td><td>88.77</td><td>86.93</td><td>91.77</td><td>88.65</td><td>91.85</td><td>86.2</td><td>85.01</td><td>79.69</td><td>83.46</td><td>81.59</td><td>83.95</td><td>82.26</td></tr> <tr><td>Batubara (hba 2) <small>(USD/ton)</small></td><td>56.83</td><td>57.17</td><td>56.52</td><td>54.79</td><td>56.09</td><td>54.63</td><td>53.26</td><td>52.41</td><td>51.91</td><td>51.78</td><td>52.75</td><td>50.52</td></tr> <tr><td>Batubara (hba 3) <small>(USD/ton)</small></td><td>37.6</td><td>36.32</td><td>36.39</td><td>35.82</td><td>36.22</td><td>35.62</td><td>35.89</td><td>34.67</td><td>35.57</td><td>35.28</td><td>34.7</td><td>34.38</td></tr> <tr><td>Nikel <small>(USD/dmt)</small></td><td>16021.67</td><td>17424.52</td><td>17472.38</td><td>18962.11</td><td>18823.86</td><td>16812.73</td><td>15908.1</td><td>16175.23</td><td>17072.14</td><td>15822.95</td><td>15660</td><td>15276.11</td></tr> <tr><td>Kobalt <small>(USD/dmt)</small></td><td>28493.81</td><td>28220</td><td>28215.95</td><td>27718.68</td><td>26980.91</td><td>26628.41</td><td>26031.9</td><td>24105</td><td>24184.52</td><td>24275.45</td><td>24300</td><td>24300</td></tr> <tr><td>Timbal <small>(USD/dmt)</small></td><td>2111.6</td><td>2089.4</td><td>2071.55</td><td>2181.68</td><td>2196.05</td><td>2154.93</td><td>1993.69</td><td>2008</td><td>2054.43</td><td>1989.41</td><td>2012.14</td><td>1927.97</td></tr> <tr><td>Seng <small>(USD/dmt)</small></td><td>2433.21</td><td>2433.93</td><td>2596.4</td><td>2875.42</td><td>2894.52</td><td>2861.05</td><td>2631.62</td><td>2796.11</td><td>3040.48</td><td>3045.48</td><td>3052.05</td><td>2896.25</td></tr> <tr><td>Aluminium <small>(USD/dmt)</small></td><td>2195</td><td>2187.05</td><td>2390.31</td><td>2539.08</td><td>2562.36</td><td>2440.32</td><td>2244.1</td><td>2430.32</td><td>2571.5</td><td>2591.86</td><td>2565.23</td><td>2531.97</td></tr> <tr><td>Tembaga <small>(USD/dmt)</small></td><td>8313.83</td><td>8544.57</td><td>9134.12</td><td>9900.58</td><td>9978.75</td><td>9579.11</td><td>8903.07</td><td>9093.91</td><td>9617</td><td>9280.23</td><td>8945.3</td><td>8895.14</td></tr> <tr><td>Emas sebagai mineral ikutan <small>(USD/Troy Ounce)</small></td><td>2022.29</td><td>2102.25</td><td>2286.78</td><td>2333.4</td><td>2344.47</td><td>2373.25</td><td>2425.49</td><td>2522.18</td><td>2650.71</td><td>2689.46</td><td>2651.36</td><td>2651.38</td></tr> <tr><td>Perak sebagai mineral ikutan <small>(USD/Troy Ounce)</small></td><td>22.7</td><td>23.68</td><td>26.76</td><td>27.66</td><td>30.34</td><td>30.15</td><td>28.1</td><td>29.39</td><td>31.44</td><td>32.43</td><td>30.87</td><td>29.85</td></tr> <tr><td>Mangan <small>(USD/dmt)</small></td><td>3.52</td><td>3.52</td><td>3.53</td><td>3.54</td><td>3.54</td><td>3.85</td><td>4.14</td><td>3.94</td><td>3.73</td><td>3.71</td><td>3.28</td><td>2.98</td></tr> <tr><td>Bijih Besi Laterit/Hematit/Magnetit <small>(USD/dmt)</small></td><td>1.96</td><td>1.71</td><td>1.55</td><td>1.72</td><td>1.66</td><td>1.57</td><td>1.45</td><td>1.36</td><td>1.45</td><td>1.48</td><td>1.52</td><td>1.44</td></tr> <tr><td>Bijih Krom <small>(USD/dmt)</small></td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td><td>6.37</td></tr> <tr><td>Konsentrat Ilmenit <small>(USD/dmt)</small></td><td>7.55</td><td>7.52</td><td>7.56</td><td>7.51</td><td>7.44</td><td>7.29</td><td>7.39</td><td>7.48</td><td>7.49</td><td>7.36</td><td>7.17</td><td>6.92</td></tr> <tr><td>Konsentrat Titanium <small>(USD/dmt)</small></td><td>12.3</td><td>12.21</td><td>12.13</td><td>12.18</td><td>12.28</td><td>11.94</td><td>11.79</td><td>11.7</td><td>11.64</td><td>11.12</td><td>10.67</td><td>10.65</td></tr>	                                        
+	                                    </tbody>
+	                                </table>
+	                                	                                
+	                            </div>
+	                        </div>
+	                    </div>
+
+
+
+	                </div>
+	            </div>
+		    	
+			</div>
+		</div>
+	
+	</section>
+</div>
+<script type="text/javascript">
+	function validasi(){
+		var tgl_dari_picker = document.getElementsByName('bulan_awal')[0].value;
+		var tgl_dari = tgl_dari_picker.split("/");
+		var startDate = new Date();
+		startDate.setDate(1);
+		startDate.setMonth(tgl_dari[0]-1);
+		startDate.setFullYear(tgl_dari[1]);
+
+		var tgl_sampai_picker = document.getElementsByName('bulan_akhir')[0].value;
+		var tgl_sampai = tgl_sampai_picker.split("/");
+		var endDate = new Date();
+		endDate.setDate(1);
+		endDate.setMonth(tgl_sampai[0]-1);
+		endDate.setFullYear(tgl_sampai[1]);
+		// console.log('enddate', endDate);
+		// return false;
+
+		if(endDate < startDate){
+			alert('tanggal sampai tidak valid');
+			return false;
+		}else{
+			return true;
+		}
+	}
+</script>
+
+<script type="text/javascript">
+(function ($) {
+"use strict";      
+		
+		c3.generate({
+			bindto: '#slineChart1',
+			data:{
+				x : 'x',
+				columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Batubara","109.77","121.13","114.06","123","130.44","115.29","125.15","131.17","114.43","122.51","124.01","124.24"],["Batubara (hba 1)","88.77","86.93","91.77","88.65","91.85","86.2","85.01","79.69","83.46","81.59","83.95","82.26"],["Batubara (hba 2)","56.83","57.17","56.52","54.79","56.09","54.63","53.26","52.41","51.91","51.78","52.75","50.52"],["Batubara (hba 3)","37.6","36.32","36.39","35.82","36.22","35.62","35.89","34.67","35.57","35.28","34.7","34.38"]],
+				colors:{
+					Batubara: '#555'
+				},
+				type: 'spline'
+			},
+			axis: {
+				x: {
+					type: 'category',
+					tick: {
+						rotate: 25,
+						multiline: false
+					},
+					height: 130
+				},
+				y: {
+					label: {
+						  text:'USD/ton',
+						  position: 'inner-top'
+						},
+					tick:{
+						format: d3.format('.2f')
+					}
+				}
+			},
+			 transition: {
+				duration: 2500
+			}
+		});
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart2',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Nikel","16021.67","17424.52","17472.38","18962.11","18823.86","16812.73","15908.1","16175.23","17072.14","15822.95","15660","15276.11"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart3',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Kobalt","28493.81","28220","28215.95","27718.68","26980.91","26628.41","26031.9","24105","24184.52","24275.45","24300","24300"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart4',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Timbal","2111.6","2089.4","2071.55","2181.68","2196.05","2154.93","1993.69","2008","2054.43","1989.41","2012.14","1927.97"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart5',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Seng","2433.21","2433.93","2596.4","2875.42","2894.52","2861.05","2631.62","2796.11","3040.48","3045.48","3052.05","2896.25"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart6',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Aluminium","2195","2187.05","2390.31","2539.08","2562.36","2440.32","2244.1","2430.32","2571.5","2591.86","2565.23","2531.97"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart7',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Tembaga","8313.83","8544.57","9134.12","9900.58","9978.75","9579.11","8903.07","9093.91","9617","9280.23","8945.3","8895.14"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart8',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Emas sebagai mineral ikutan","2022.29","2102.25","2286.78","2333.4","2344.47","2373.25","2425.49","2522.18","2650.71","2689.46","2651.36","2651.38"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/Troy Ounce',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart9',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Perak sebagai mineral ikutan","22.7","23.68","26.76","27.66","30.34","30.15","28.1","29.39","31.44","32.43","30.87","29.85"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/Troy Ounce',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart10',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Ingot Timah Pb 300","0","0","0","0","0","0","0","0","0","0","0","0"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart11',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Ingot Timah Pb 200","0","0","0","0","0","0","0","0","0","0","0","0"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart12',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Ingot Timah Pb 100","0","0","0","0","0","0","0","0","0","0","0","0"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart13',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Ingot Timah Pb 050","0","0","0","0","0","0","0","0","0","0","0","0"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart14',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Ingot Timah 4NINE","0","0","0","0","0","0","0","0","0","0","0","0"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart15',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Logam Emas","0","0","0","0","0","0","0","0","0","0","0","0"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/ounce',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart16',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Logam Perak","0","0","0","0","0","0","0","0","0","0","0","0"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/ounce',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart17',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Mangan","3.52","3.52","3.53","3.54","3.54","3.85","4.14","3.94","3.73","3.71","3.28","2.98"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart18',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Bijih Besi Laterit\/Hematit\/Magnetit","1.96","1.71","1.55","1.72","1.66","1.57","1.45","1.36","1.45","1.48","1.52","1.44"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart19',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Bijih Krom","6.37","6.37","6.37","6.37","6.37","6.37","6.37","6.37","6.37","6.37","6.37","6.37"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart20',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Konsentrat Ilmenit","7.55","7.52","7.56","7.51","7.44","7.29","7.39","7.48","7.49","7.36","7.17","6.92"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script><script type="text/javascript">
+    (function ($) {
+    "use strict";      
+            
+            c3.generate({
+                bindto: '#slineChart21',
+                data:{
+                    x : 'x',
+                    columns: [["x","Maret 2024","April 2024","Mei 2024","Juni 2024","Juli 2024","Agustus 2024","September 2024","Oktober 2024","November 2024","Desember 2024","Januari 2025","Februari 2025"],["Konsentrat Titanium","12.3","12.21","12.13","12.18","12.28","11.94","11.79","11.7","11.64","11.12","10.67","10.65"]],
+                    colors:{
+                        Batubara: '#555'
+                    },
+                    type: 'spline'
+                },
+                axis: {
+                    x: {
+                        type: 'category',
+                        tick: {
+                            rotate: 25,
+                            multiline: false
+                        },
+                        height: 130
+                    },
+                    y: {
+                        label: {
+                              text: 'USD/dmt',
+                              position: 'inner-top'
+                            },
+                        tick:{
+                            format: d3.format('.2f')
+                        }
+                    }
+                },
+                 transition: {
+                    duration: 2500
+                }
+            });
+
+
+
+})(jQuery); 
+</script>
+
+
+<script type="text/javascript">
+    
+    var startDate = new Date();
+var fechaFin = new Date();
+var FromEndDate = new Date();
+var ToEndDate = new Date();
+
+
+
+$('.from').datepicker({
+    autoclose: true,
+    minViewMode: 1,
+    format: 'mm/yyyy'
+}).on('changeDate', function(selected){
+        //startDate = new Date(selected.date.valueOf());
+        //startDate.setDate(startDate.getDate(new Date(selected.date.valueOf())));
+        //$('.to').datepicker('setStartDate', startDate);
+    }); 
+
+$('.to').datepicker({
+    autoclose: true,
+    minViewMode: 1,
+    format: 'mm/yyyy'
+}).on('changeDate', function(selected){
+        // FromEndDate = new Date(selected.date.valueOf());
+        // FromEndDate.setDate(FromEndDate.getDate(new Date(selected.date.valueOf())));
+        // $('.from').datepicker('setEndDate', FromEndDate);
+    });
+
+
+</script>
+      <!-- -->
+      <!-- ================================================================================================== -->
+      <div class="wrapper coloured">
+      </div>
+    </div>
+    <div id="footer" class="wrapper row5" style="border-top: solid 5px #fee50f;">
+      <div id="copyright" class="hoc clear">
+        <article class="hoc container clear center">
+
+          <p class="" style="padding:5px">
+
+            <a class="social-media-container" href="https://www.facebook.com/ditjenminerbakesdm/" target="_blank"><img src="https://www.minerba.esdm.go.id/upload/thumbnail/20180710165509.png"/></a>&nbsp;&nbsp;<a class="social-media-container" href="https://twitter.com/humasminerba?lang=en" target="_blank"><img src="https://www.minerba.esdm.go.id/upload/thumbnail/20180710165500.png"/></a>&nbsp;&nbsp;<a class="social-media-container" href="https://www.youtube.com/channel/UCdzWlR3rhNik1NQMDPNpWdA" target="_blank"><img src="https://www.minerba.esdm.go.id/upload/thumbnail/20180710165450.png"/></a>&nbsp;&nbsp;<a class="social-media-container" href="https://www.instagram.com/ditjenminerba/" target="_blank"><img src="https://www.minerba.esdm.go.id/upload/thumbnail/20180710165440.png"/></a>&nbsp;&nbsp;
+          </p>
+
+        </article>
+        <p class="text-center">
+          <b style="color:#fee50f">HAK CIPTA © 2018 KEMENTERIAN ENERGI DAN SUMBER DAYA MINERAL</b>
+        </p>
+        <p class="text-center">
+          JL. PROF. DR. SOEPOMO SH NO.10 TEBET, JAKARTA SELATAN<BR>DAERAH KHUSUS IBUKOTA JAKARTA 12870        </p>
+        <!-- <p class="fl_right"><a href="https://www.minerba.esdm.go.id/privasi" target="_blank">PRIVASI </a></p> -->
+      </div>
+    </div>
+
+  </div>
+
+  <!-- </div> -->
+
+  <!-- pop up -->
+
+  
+  <!-- popup -->
+
+  <!-- <a id="backtotop" href="#top">
+    <i class="fa fa-chevron-up"></i>
+  </a> -->
+
+  
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+  <script src="https://www.minerba.esdm.go.id/resources/themes/limberly/scripts/jquery.min.js"></script>
+
+  <script src="https://www.minerba.esdm.go.id/resources/themes/limberly/scripts/3.3.7/bootstrap.min.js"></script>
+
+  <script src="https://www.minerba.esdm.go.id/resources/themes/limberly/scripts/jquery.backtotop.js"></script>
+
+  <script src="https://www.minerba.esdm.go.id/resources/themes/limberly/scripts/jquery.mobilemenu.js"></script>
+
+  <script src="https://www.minerba.esdm.go.id/resources/plugins/jssocials/jssocials.min.js"></script>
+
+  <script src="https://www.minerba.esdm.go.id/resources/plugins/jssocials/jssocials.min.js"></script>
+
+  <script src="https://www.minerba.esdm.go.id/resources/plugins/vegas/zepto.min.js"></script>
+
+  <script src="https://www.minerba.esdm.go.id/resources/plugins/vegas/vegas.min.js"></script>
+
+
+
+  <script type="text/javascript" src="https://www.minerba.esdm.go.id/resources/plugins/datatables/jquery.dataTables.min.js"></script><script type="text/javascript" src="https://www.minerba.esdm.go.id/resources/plugins/datatables/dataTables.bootstrap.min.js"></script><script type="text/javascript" src="https://www.minerba.esdm.go.id/resources/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js"></script><script type="text/javascript" src="https://www.minerba.esdm.go.id/resources/plugins/datatables/dataTables.buttons.min.js"></script><script type="text/javascript" src="https://www.minerba.esdm.go.id/resources/plugins/datatables/buttons.flash.min.js"></script><script type="text/javascript" src="https://www.minerba.esdm.go.id/resources/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js"></script>
+  <script type="application/javascript">
+    jQuery(function($) {
+
+      $(window).scroll(function() {
+
+        if ($(window).scrollTop() >= 200) {
+
+          $('#difix').addClass('difixin');
+          $('#difix').addClass('animate');
+          $('#difix').addClass('fadeInDown');
+
+        } else {
+
+          $('#difix').removeClass('difixin');
+          $('#difix').removeClass('animate');
+          $('#difix').removeClass('fadeInDown');
+
+        };
+
+
+      });
+
+    });
+
+    var bahasa = '';
+
+    var hari = 'in';
+
+    if (bahasa === '') {
+
+      tday = new Array("Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu");
+
+      tmonth = new Array("Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember");
+
+    } else {
+
+      tday = new Array("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+
+      tmonth = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+
+    }
+
+
+
+    function GetClock() {
+
+      var d = new Date();
+
+      var nday = d.getDay(),
+        nmonth = d.getMonth(),
+        ndate = d.getDate(),
+        nyear = d.getYear();
+
+      if (nyear < 1000) nyear += 1900;
+
+      var nhour = d.getHours(),
+        nmin = d.getMinutes(),
+        nsec = d.getSeconds(),
+        ap;
+
+
+
+      if (nhour == 0) {
+        ap = " AM";
+        nhour = 12;
+      } else if (nhour < 12) {
+        ap = " AM";
+      } else if (nhour == 12) {
+        ap = " PM";
+      } else if (nhour > 12) {
+        ap = " PM";
+        nhour -= 12;
+      }
+
+
+
+      if (nmin <= 9) nmin = "0" + nmin;
+
+      if (nsec <= 9) nsec = "0" + nsec;
+
+
+
+      document.getElementById('clockbox').innerHTML = "" + tday[nday] + ", " + ndate + " " + tmonth[nmonth] + " " + nyear + " | " + nhour + ":" + nmin + ":" + nsec + ap + "";
+
+    }
+
+
+
+    window.onload = function() {
+
+      GetClock();
+
+      setInterval(GetClock, 1000);
+
+
+
+    }
+
+
+
+    $(window).on('load', function() {
+
+      $('#myModal').modal('show');
+
+    });
+
+    $("#share").jsSocials({
+
+      showLabel: false,
+
+      showCount: false,
+
+      shares: ["email", "twitter", "facebook", "googleplus", "linkedin"]
+
+    });
+
+    $(".slider-background").vegas({
+
+      slides: [
+
+        
+      ]
+
+    });
+
+    var xmlHttp;
+
+    function srvTime() {
+      try {
+        //FF, Opera, Safari, Chrome
+        xmlHttp = new XMLHttpRequest();
+      } catch (err1) {
+        //IE
+        try {
+          xmlHttp = new ActiveXObject('Msxml2.XMLHTTP');
+        } catch (err2) {
+          try {
+            xmlHttp = new ActiveXObject('Microsoft.XMLHTTP');
+          } catch (eerr3) {
+            //AJAX not supported, use CPU time.
+            alert("AJAX not supported");
+          }
+        }
+      }
+      xmlHttp.open('HEAD', window.location.href.toString(), false);
+      xmlHttp.setRequestHeader("Content-Type", "text/html");
+      xmlHttp.send('');
+      return xmlHttp.getResponseHeader("Date");
+    }
+
+    function getData() {
+      var id = '';
+	  if (id != '') {
+      $.ajax({
+        type: 'POST',
+        data: {id:id},
+        url: 'https://www.minerba.esdm.go.id/Countdown/get_data',
+        dataType: 'json',
+        contentType: 'json',
+        success: function(response) {
+
+          data = response[0].TANGGAL_EVENT;
+          var countDownDate = new Date(data).getTime();
+          // Update the count down every 1 second
+          var x = setInterval(function() {
+
+            // Get today's server date and time
+            var st = srvTime();
+            var date = new Date(st).getTime();
+
+            // Find the distance between now and the countdown date
+            var distance = countDownDate - date;
+
+            // Time calculations for days, hours, minutes and seconds
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+
+            // Output the result in an element with id="day"
+            document.getElementById("day").innerHTML = days;
+
+            // Output the result in an element with id="hour"
+            document.getElementById("hour").innerHTML = hours;
+
+            // Output the result in an element with id="min"
+            document.getElementById("min").innerHTML = minutes;
+
+            // Output the result in an element with id="sec"
+            document.getElementById("sec").innerHTML = seconds;
+
+
+
+
+            // If the count down is over, write some text 
+            if (distance < 0) {
+              clearInterval(x);
+              // Output the result in an element with id="day"
+              document.getElementById("day").innerHTML = "EXPIRED";
+
+              // Output the result in an element with id="hour"
+              document.getElementById("hour").innerHTML = "EXPIRED";
+
+              // Output the result in an element with id="min"
+              document.getElementById("min").innerHTML = "EXPIRED";
+
+              // Output the result in an element with id="sec"
+              document.getElementById("sec").innerHTML = "EXPIRED";
+
+              var id = response[0].ID_EVENT;
+              $.ajax({
+                type: 'POST',
+                data: {id:id},
+                async: false,
+                url: 'https://www.minerba.esdm.go.id/Countdown/edit_countdown',
+                //dataType: 'json',
+                //contentType: 'json',
+                success: function(response) {
+                  location.reload()
+                },
+                error: function() {
+                  alert("error")
+                }
+              })
+            }
+          }, 1000);
+        },
+        error: function() {
+          alert("error");
+        }
+      });
+	  }
+    }
+
+    getData();
+  </script>
+  <!-- google analytics -->
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=UA-76862892-1"></script>
+                <script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+
+                  gtag('config', 'UA-76862892-1');
+                </script><!-- Default Statcounter code for website https://www.minerba.esdm.go.id -->
+<script type="text/javascript">
+var sc_project=11797947; 
+var sc_invisible=1; 
+var sc_security="8bd9054d"; 
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." :
+"https://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics Made Easy -
+StatCounter" href="https://statcounter.com/" target="_blank"><img
+class="statcounter" src="//c.statcounter.com/11797947/0/8bd9054d/0/" alt="Web
+Analytics Made Easy - StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code --></body>
+
+</html>
