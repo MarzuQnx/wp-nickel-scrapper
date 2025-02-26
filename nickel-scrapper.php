@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Nickel Scrapper
- * Plugin URI: https://www.tekindoenergi.co.id
+ * Plugin URI: https://www.marzuqnx.com
  * Description: Scrapped from HPM (Harga Patokan Mineral) Kementrian Energi dan Sumber Daya Alam
  * Version: 2.9
  * Text Domain: nickel-scrapper
