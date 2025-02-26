@@ -6,7 +6,7 @@
  * Version: 2.9
  * Text Domain: nickel-scrapper
  * Author: dbanie
- * Author URI: https://www.tekindoenergi.co.id
+ * Author URI: https://www.marzqnx.com
  */
 
 // Include Composer autoload
